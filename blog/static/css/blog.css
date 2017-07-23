@@ -50,7 +50,7 @@ h1, h2, h3, h4 {
     margin-bottom: 70px;
 }
 
-.post a.btn-edit, .post a.btn-publish {
+.post a.btn-edit, .post a.btn-publish, .post a.btn-remove {
     float: right;
     margin: 5px;
 }
